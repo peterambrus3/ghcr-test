@@ -1,0 +1,22 @@
+{
+  "name": "@peterambrus3/ghcr-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterambrus3/ghcr-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterambrus3/ghcr-test/issues"
+  },
+  "homepage": "https://github.com/peterambrus3/ghcr-test#readme"
+  "publishConfig": {
+   "@peterambrus3:registry": "https://npm.pkg.github.com"
+ }
+}
